@@ -47,10 +47,10 @@ a {
 
 footer {
     text-align: center;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 footer img {
-    width: 100 px;
-    margin-bottom: 15px;
+    width: 200px;
+    margin-bottom: 5px;
 }
